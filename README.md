@@ -3,7 +3,7 @@
 My first project
 This is my first ever class on python and first project on creating a README file.
 ### Description
-This file is a simple showing how to from vs code to github.
+This file is a simple showing how to from github to vs code.
 
 I am happy to be a student of Victor class on Python.
 ```name = "jayson"
